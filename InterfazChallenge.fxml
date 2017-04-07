@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Button layoutX="201.0" layoutY="202.0" mnemonicParsing="false" prefHeight="111.0" prefWidth="184.0" text="CONTINUAR">
+         <font>
+            <Font name="Arial Black" size="21.0" />
+         </font>
+      </Button>
+      <Label layoutX="70.0" layoutY="95.0" prefHeight="72.0" prefWidth="461.0" text="   BIENVENIDO" textFill="#09837b">
+         <font>
+            <Font name="Arial Bold Italic" size="57.0" />
+         </font>
+      </Label>
+   </children>
+</Pane>

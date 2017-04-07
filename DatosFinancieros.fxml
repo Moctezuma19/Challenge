@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label layoutX="40.0" layoutY="31.0" prefHeight="47.0" prefWidth="483.0" text="Introduce tus datos financieros : ">
+         <font>
+            <Font name="System Bold" size="29.0" />
+         </font>
+      </Label>
+      <Label layoutX="40.0" layoutY="101.0" prefHeight="47.0" prefWidth="444.0" text="Número de tarjeta :">
+         <font>
+            <Font name="System Italic" size="26.0" />
+         </font>
+      </Label>
+      <Label layoutX="40.0" layoutY="200.0" prefHeight="47.0" prefWidth="444.0" text="Código de Seguridad : ">
+         <font>
+            <Font name="System Italic" size="26.0" />
+         </font>
+      </Label>
+      <TextArea layoutX="40.0" layoutY="148.0" prefHeight="47.0" prefWidth="395.0" />
+      <TextArea layoutX="40.0" layoutY="254.0" prefHeight="47.0" prefWidth="395.0" />
+      <Button layoutX="484.0" layoutY="278.0" mnemonicParsing="false" prefHeight="98.0" prefWidth="100.0" text="&gt;">
+         <font>
+            <Font size="48.0" />
+         </font>
+      </Button>
+   </children>
+</Pane>
